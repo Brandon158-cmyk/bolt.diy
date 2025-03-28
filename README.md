@@ -361,6 +361,8 @@ Explore upcoming features and priorities on our [Roadmap](https://roadmap.sh/r/o
 
 For answers to common questions, issues, and to see a list of recommended models, visit our [FAQ Page](FAQ.md).
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Brandon158-cmyk/bolt.diy?utm_source=oss&utm_medium=github&utm_campaign=Brandon158-cmyk%2Fbolt.diy&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 
 # Licensing
 **Who needs a commercial WebContainer API license?**
